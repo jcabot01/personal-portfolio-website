@@ -420,10 +420,11 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 30px;
   display: block;
   background: none;
   border-radius: 0;
+  font-size: 1rem;
 }
 
 .skills .progress .skill {
