@@ -425,6 +425,7 @@ section {
   background: none;
   border-radius: 0;
   font-size: 1rem;
+  width: fit-content;
 }
 
 .skills .progress .skill {
